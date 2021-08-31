@@ -8,4 +8,4 @@ This project demonstrates how easy it canbe to make a piezo electric pickup elem
 Basically all you need is a large diameter piezo speaker and a stylus.
 Using some glue, 3D printed parts, aluminum tube, cotton wool and silicone caulk it can be assembled into something practical.
 
-More info on my website: http://home.kpn.nl/bderogee1980/projects/reproducer_piezo/piezo_reproducer.html
+More info on my website: https://janderogee.com/projects/reproducer_piezo/piezo_reproducer.html
